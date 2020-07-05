@@ -12,8 +12,10 @@ body{
     background: aliceblue;
 }
 #text{
-    font-family: 'Amiko', sans-serif;
-    margin-left: 220px;
+  font-family: 'Amiko', sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    margin-left: 10vw;
 }
 .heading{
     max-width: 98.5%;
